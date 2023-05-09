@@ -1,0 +1,10 @@
+'''
+1. Computer needs to "know" where the needle is
+
+2. Computer needs to "know" where the stage is 
+
+3. "Click" on the image, computer has to know where on the stage we clicked (our target)
+
+4. Move the stage (or needle?) so that the target is under the needle location 
+'''
+
